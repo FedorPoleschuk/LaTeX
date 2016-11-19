@@ -20,6 +20,7 @@ Instaling Tex:
 Download TeX Live		https://www.tug.org/texlive/acquire-netinstall.html
 	
 Download Tex Studio		http://www.texstudio.org
+
 Cloud TeX:
 
 	https://www.sharelatex.com
