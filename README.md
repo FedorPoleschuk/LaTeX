@@ -17,10 +17,9 @@ Title.tex: Файл настройки титульного листа
 
 Instaling Tex:
 
-Download TeX Live	
-	https://www.tug.org/texlive/acquire-netinstall.html
-Download Tex Studio	
-	http://www.texstudio.org
+Download TeX Live		https://www.tug.org/texlive/acquire-netinstall.html
+	
+Download Tex Studio		http://www.texstudio.org
 Cloud TeX:
 
 	https://www.sharelatex.com
